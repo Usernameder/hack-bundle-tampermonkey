@@ -9,7 +9,7 @@
 // @match        *://diservers.org/*
 // @match        *://moomoo.io/*
 // @match        *://krunker.io/*
-// @match        http://dev.moomoo.io/*
+// @match       *https://blockfistgames.weebly.com/krunkerio.html*
 // @match        *sandbox.moomoo.io/*
 // @include      /^(https?:\/\/)?(www\.)?(.+)krunker\.io(|\/|\/\?(server|party)=.+)$/
 // @grant        GM_xmlhttpRequest
